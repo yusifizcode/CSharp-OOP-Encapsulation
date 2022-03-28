@@ -1,0 +1,14 @@
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-OOP-Encapsulation\CSharp-OOP-Encapsulation\obj\Debug\netcoreapp3.1\CSharp-OOP-Encapsulation.csproj.AssemblyReference.cache
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-OOP-Encapsulation\CSharp-OOP-Encapsulation\obj\Debug\netcoreapp3.1\CSharp-OOP-Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-OOP-Encapsulation\CSharp-OOP-Encapsulation\obj\Debug\netcoreapp3.1\CSharp-OOP-Encapsulation.AssemblyInfoInputs.cache
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-OOP-Encapsulation\CSharp-OOP-Encapsulation\obj\Debug\netcoreapp3.1\CSharp-OOP-Encapsulation.AssemblyInfo.cs
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-OOP-Encapsulation\CSharp-OOP-Encapsulation\obj\Debug\netcoreapp3.1\CSharp-OOP-Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-OOP-Encapsulation\CSharp-OOP-Encapsulation\bin\Debug\netcoreapp3.1\CSharp-OOP-Encapsulation.exe
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-OOP-Encapsulation\CSharp-OOP-Encapsulation\bin\Debug\netcoreapp3.1\CSharp-OOP-Encapsulation.deps.json
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-OOP-Encapsulation\CSharp-OOP-Encapsulation\bin\Debug\netcoreapp3.1\CSharp-OOP-Encapsulation.runtimeconfig.json
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-OOP-Encapsulation\CSharp-OOP-Encapsulation\bin\Debug\netcoreapp3.1\CSharp-OOP-Encapsulation.runtimeconfig.dev.json
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-OOP-Encapsulation\CSharp-OOP-Encapsulation\bin\Debug\netcoreapp3.1\CSharp-OOP-Encapsulation.dll
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-OOP-Encapsulation\CSharp-OOP-Encapsulation\bin\Debug\netcoreapp3.1\CSharp-OOP-Encapsulation.pdb
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-OOP-Encapsulation\CSharp-OOP-Encapsulation\obj\Debug\netcoreapp3.1\CSharp-OOP-Encapsulation.dll
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-OOP-Encapsulation\CSharp-OOP-Encapsulation\obj\Debug\netcoreapp3.1\CSharp-OOP-Encapsulation.pdb
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-OOP-Encapsulation\CSharp-OOP-Encapsulation\obj\Debug\netcoreapp3.1\CSharp-OOP-Encapsulation.genruntimeconfig.cache
